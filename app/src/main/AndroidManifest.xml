@@ -29,6 +29,7 @@
                 android:name="android.support.PARENT_ACTIVITY"
                 android:value="com.example.ysoph.mycampusday.MainActivity" />
         </activity>
+        <activity android:name=".RegistrationActivity"></activity>
     </application>
 
 </manifest>
