@@ -79,7 +79,7 @@ public class RegistrationActivity extends AppCompatActivity {
     }
 
     private void registerUser(final String fullname,  final String email, final String password,
-                              final String promotion, final String major, final String School) {
+                              final String promotion, final String major, final String school) {
         // Tag used to cancel the request
         String cancel_req_tag = "register";
 

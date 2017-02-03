@@ -21,7 +21,7 @@ package com.example.ysoph.mycampusday;
 public class LoginActivity extends AppCompatActivity {
 
     private static final String TAG = "LoginActivity";
-    private static final String URL_FOR_LOGIN = "https://XXX.XXX.X.XX/android_login_example/login.php";
+    private static final String URL_FOR_LOGIN = "http://localhost/android_login_example/login.php";
     ProgressDialog progressDialog;
     private EditText loginInputEmail, loginInputPassword;
     private Button btnlogin;
